@@ -1,0 +1,43 @@
+<?xml version=1.0?>
+
+<helios>
+	<WeberPennTree label="Blueberry">
+		<Shape> 6 </Shape>
+		<BaseSize> 0.1 </BaseSize>
+		<BaseSizeV> 0.05 </BaseSizeV>
+		<BaseSplits> 2 </BaseSplits>
+		<BaseSplitsV> 1 </BaseSplitsV>
+		<BaseSplitSize> 0.1 </BaseSplitSize>
+		<BaseSplitSizeV> 0.05 </BaseSplitSizeV>
+		<Scale> 0.4 </Scale>
+		<ScaleV> 0.05 </ScaleV>
+		<ZScale> 0.35 </ZScale>
+		<ZScaleV> 0.05 </ZScaleV>
+		<Ratio> 0.015 </Ratio>
+		<RatioPower> 1 </RatioPower>
+		<Lobes> 7 </Lobes>
+		<LobeDepth> 0.1 </LobeDepth>
+		<Flare> 0 </Flare>
+		<Levels> 3 </Levels>
+		<nSegSplits> 1 2 0 0 </nSegSplits>
+		<nSplitAngle> 20 20 20 0 </nSplitAngle>
+		<nSplitAngleV> 5 5 0 0 </nSplitAngleV>
+		<nCurveRes> 3 2 3 0 </nCurveRes>
+		<nCurve> -30 -30 -40 0 </nCurve>
+		<nCurveV> 20 20 20 0 </nCurveV>
+		<nCurveBack> 0 0 0 0 </nCurveBack>
+		<nLength> 1 0.3 0.3 0 </nLength>
+		<nLengthV> 0 0.1 0.1 0 </nLengthV>
+		<nTaper> 0.5 1 1 0 </nTaper>
+		<nDownAngle> 50 50 0 0 </nDownAngle>
+		<nDownAngleV> 10 10 0 0 </nDownAngleV>
+		<nRotate> 0 0 0 0 </nRotate>
+		<nRotateV> 30 100 45 60 </nRotateV>
+		<nBranches> 7 30 5 0 </nBranches>
+		<Leaves> 5 </Leaves>
+		<LeafFile> plugins/weberpenntree/leaves/Blueberry_Leaf.png </LeafFile>
+		<LeafScale> 0.04 </LeafScale>
+		<LeafScaleX> 0.7 </LeafScaleX>
+		<WoodFile> plugins/weberpenntree/wood/Bleaberry_Stem.jpg </WoodFile>
+	</WeberPennTree>
+</helios>
